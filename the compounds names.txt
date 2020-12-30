@@ -1,0 +1,17 @@
+H20 - water 			- hydrogen + oxygen
+CO2 - carbon dioxide		- carbon + oxygen
+HCL - hydrogen chloride		- any gas at room temperature + water
+H2SO4 - sulfuric acid		- oxygen + water + sulfer
+NaCL - sodium chloride		- sodium + clorine
+Na2O - sodium oxide		- sodium + oxygen
+HCN - hydrogen cynide		- hydrogen + carbon + nitrogen
+AL2O3 - aluminium oxide		- aluminium + oxygen
+CaCO3 - calcium carbonate 	- calcium + carbon dioxide
+NO - nitric acid		- nitrogen + oxygen
+Ca(NO3)2 - calcium nitrate 	- calcium + nitric acid
+CaO - calcium oxide		- calcium + oxygen
+CO - carbon monoxide		- carbon + oxygen
+CaH2 - calcium hydride		- calcium + hydrogen
+C4H10 - butane			- calcium + hydrogen
+HCLO2 - chlorous acid		- hydrogen + chloric + oxygen
+CuCO3 - copper carbonate	- copper + carbon dioxide

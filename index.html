@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Multiplayer Game</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.sound.min.js"></script>
+    <script src="p5.play.js"></script>
+
+    <script src="https://www.gstatic.com/firebasejs/6.3.4/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/6.3.0/firebase-database.js"></script>
+
+
+    <script>
+      // Your web app's Firebase configuration
+      //Add here
+      var firebaseConfig = {
+    apiKey: "AIzaSyCQMpUlfYlu1kIpyd1gELvZNN56cHD9EYg",
+    authDomain: "molecular-alchemist.firebaseapp.com",
+    databaseURL: "https://molecular-alchemist-default-rtdb.firebaseio.com",
+    projectId: "molecular-alchemist",
+    storageBucket: "molecular-alchemist.appspot.com",
+    messagingSenderId: "961156306857",
+    appId: "1:961156306857:web:11f61ee6f0f74baad2d6b8",
+    measurementId: "G-CQPZ3W48PF"
+  };
+      // Initialize Firebase
+      firebase.initializeApp(firebaseConfig);
+    </script>
+
+<script src="Element.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+  </head>
+  <body>
+    <script src="sketch.js"></script>
+  </body>
+</html>
